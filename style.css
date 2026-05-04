@@ -105,8 +105,8 @@ p {
 }
 
 .avatar-container {
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     position: relative;
     z-index: 1;
     mask-image: linear-gradient(to bottom, black 70%, transparent 100%);
@@ -351,8 +351,8 @@ footer h2 {
     }
     
     .avatar-container {
-        width: 360px;
-        height: 360px;
+        width: 420px;
+        height: 420px;
     }
     
     .services-grid {
